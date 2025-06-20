@@ -1,6 +1,6 @@
 # Banco de Dados 1 - Consultas SQL
 
-#Este repositório contém scripts e consultas SQL desenvolvidos durante a disciplina Banco de Dados 1. Todos os exemplos foram realizados no ambiente SQL Server.
+# Este repositório contém scripts e consultas SQL desenvolvidos durante a disciplina Banco de Dados 1. Todos os exemplos foram realizados no ambiente SQL Server.
 
 Aqui você encontrará:
 
@@ -16,4 +16,4 @@ Aqui você encontrará:
 
 -Exercícios práticos para fixação de conceitos
 
-#Este material serve como referência e apoio para estudos relacionados a bancos de dados relacionais e linguagens de consulta SQL.
+# Este material serve como referência e apoio para estudos relacionados a bancos de dados relacionais e linguagens de consulta SQL.
